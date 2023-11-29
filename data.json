@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "serviceName": "Photography",
+        "image": "https://i.ibb.co/P63Rpkd/reinhart-julian-Wx-M465o-M4j4-unsplash.jpg",
+        "price": "$2,500",
+        "description": "Capture every special moment with our exceptional wedding photography services. Our skilled photographers specialize in documenting the magic of your big day, ensuring that you have a treasure trove of memories to cherish for a lifetime. From the intimate exchange of vows to the joyous celebration with friends and family, our team is dedicated to preserving the essence of your love story. Our package includes pre-wedding consultations, full-day coverage, high-resolution edited images, and a private online gallery for easy sharing. Book our photography services now to immortalize the beauty of your wedding day."
+    },
+    {
+        "id": 2,
+        "serviceName": "Catering",
+        "image": "https://i.ibb.co/vjjCdGr/robert-mathews-x-Xa-Lfz6-V9r-Q-unsplash.jpg",
+        "price": "$5,000",
+        "description": "Indulge your guests with an exquisite catering experience that tantalizes the taste buds and elevates your wedding celebration. Our culinary experts craft a menu tailored to your preferences, featuring a fusion of flavors and artful presentations. Whether you desire a formal sit-down dinner or a lively buffet, our catering services are designed to create a culinary journey that mirrors the uniqueness of your love story. From appetizers to desserts, we ensure every bite is a delight. Book our catering services now to treat your guests to an unforgettable gastronomic experience."
+    },
+    {
+        "id": 3,
+        "serviceName": "Venue Decoration",
+        "image": "https://i.ibb.co/71G4SYH/omurden-cengiz-Bl-KIiq-K-H78-unsplash.jpg",
+        "price": "$1,200",
+        "description": "Transform your wedding venue into a dreamlike space with our enchanting decoration services. Our team of skilled decorators specializes in creating personalized and visually stunning settings that reflect your style and vision. From elegant floral arrangements to atmospheric lighting, we pay meticulous attention to every detail to ensure your venue is a true reflection of your love. Our package includes a detailed consultation, personalized decor planning, setup, and teardown. Book our decoration services now to turn your wedding venue into a magical and romantic masterpiece."
+    },
+    {
+        "id": 4,
+        "serviceName": "Music and Entertainment",
+        "image": "https://i.ibb.co/NV7CQP2/ludomil-sawicki-pd3uk3-RIQ8s-unsplash.jpg",
+        "price": "$3,000",
+        "description": "Elevate your wedding celebration with our top-notch music and entertainment services. Our talented musicians and entertainers are dedicated to creating a vibrant and unforgettable atmosphere for your special day. From soulful melodies during the ceremony to energetic tunes that get everyone on the dance floor, we curate a musical experience that resonates with your unique style. Our package includes a consultation to understand your musical preferences, a professional DJ or live band, and entertainment tailored to your wedding theme. Book our music and entertainment services now to ensure your wedding day is filled with joyous moments and delightful memories."
+    },
+    {
+        "id": 5,
+        "serviceName": "Floral Arrangements",
+        "image": "https://i.ibb.co/4g9RTYG/aida-batres-Qxz-SVWesm0-unsplash.jpg",
+        "price": "$1,500",
+        "description": "Enhance the beauty and ambiance of your wedding with our exquisite floral arrangement services. Our skilled florists work with you to create bespoke bouquets, centerpieces, and decorative elements that complement your wedding theme and color scheme. We source the finest and freshest blooms to ensure your floral arrangements are a visual delight. From classic roses to unique and seasonal flowers, our floral designs add a touch of elegance and romance to your celebration. Book our floral arrangement services now to infuse your wedding day with the timeless beauty of flowers."
+    },
+    {
+        "id": 6,
+        "serviceName": "Wedding Planning",
+        "image": "https://i.ibb.co/mJ1dyMJ/photos-by-lanty-Bu-F-HPC9gc-Q-unsplash.jpg",
+        "price": "$4,500",
+        "description": "Relax and enjoy your wedding journey with our comprehensive wedding planning services. Our experienced wedding planners will guide you through every step of the process, ensuring a seamless and stress-free experience. From budget management to vendor coordination, timeline creation, and day-of coordination, we handle all the details so you can focus on savoring every moment. Our personalized approach ensures that your wedding day reflects your unique style and vision. Book our wedding planning services now to turn your dream wedding into a reality."
+    }
+]
